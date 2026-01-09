@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "조범준님 고가용성 웹 서비스 구축.md",
+                "file": "OTJ/Linux/01_리눅스_서버_구축.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "조범준님 고가용성 웹 서비스 구축"
+              "title": "01_리눅스_서버_구축"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "조범준님 고가용성 웹 서비스 구축.md",
+                "file": "OTJ/Linux/01_리눅스_서버_구축.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "조범준님 고가용성 웹 서비스 구축 의 개요"
+              "title": "01_리눅스_서버_구축 의 개요"
             }
           }
         ],
@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,16 +170,17 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "9194bf5af7ca711d",
+  "active": "cfc8c5e6d95e88ac",
   "lastOpenFiles": [
-    "images/Pasted.md",
+    "무제.md",
+    "OTJ/Linux/01_리눅스_서버_구축.md",
     "조범준님 고가용성 웹 서비스 구축.md",
+    "images/Pasted.md",
     "OTJ/Git 오류.md",
     "Welcome.md",
     "create a link.md",
     "내가 이해한 네트워크.md",
     "().md",
-    "OTJ/Linux/01_리눅스_서버_구축.md",
     "99. Attachment/Pasted image 20251222140458.png",
     "99. Attachment/Pasted image 20251218142140.png",
     "OTJ/Network/05_로드밸런서_아키텍처.md",

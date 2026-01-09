@@ -6,5 +6,12 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "00. Inbox",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "99. Attachment"
+  "attachmentFolderPath": "99. Attachment",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
